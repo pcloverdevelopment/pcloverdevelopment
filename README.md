@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Patrick Clover. I'm fortunate enough to call myself a full stack developer. Welcome to my github page! <br>
+🌱 *Currently Learning*: How to build a Trello board application clone with my good pal **dunbheo** using ASP.NET Core with React.<br>
+🔭 *In the Works*: Building up content for a blog and YouTube channel!<br>
 
 <!--
 **pcloverdevelopment/pcloverdevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
